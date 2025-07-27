@@ -63,5 +63,20 @@ How many records are in the attendance table?
 
 
 
+![app_main](https://github.com/user-attachments/assets/1825a360-bec7-4824-a197-e3f92886490f)
+
+![result_2](https://github.com/user-attachments/assets/2936c562-627b-4c6a-86d7-60b46aea74cd)
+
+![result_3](https://github.com/user-attachments/assets/a6a0d478-d109-4283-a9be-a867a6c06ea3)
+
+![result_4](https://github.com/user-attachments/assets/4b68eb70-a895-40a6-9df5-8dea3479afbe)
+
+
+
+
+
+
+
+
 
 
